@@ -6,7 +6,6 @@ export const getVideoLink = async(req: Request, res: Response) => {
   try {
     let url = req.body.url;
     url = url + "embed/captioned";
-
     let link = "";
 
     let response = await axios.get(url);
