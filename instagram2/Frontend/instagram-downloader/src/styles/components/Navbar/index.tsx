@@ -4,7 +4,7 @@ const NavbarWrapper = styled.div`
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0 80px;
+  padding:0 150px;
   height:75px;
   background-color: #ffffff;
   box-shadow: 0px 0.8px 2px rgba(0, 0, 0, 0.032),

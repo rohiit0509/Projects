@@ -16,8 +16,6 @@ const DownloadContainer = styled.div`
   overflow: hidden;
   width: 75%;
   height: 500px;
-
-
 `;
 const Para = styled.p`
   font-size: 18px;
@@ -28,6 +26,7 @@ const TextContainer = styled.div`
   flex-direction: column;
   justify-content: center;
   width:46%;
+
 `;
 const H1 = styled.h1`
 font-size:45px;
